@@ -3,14 +3,14 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "de.itmeindl.wawaapp1"
+        id        = "de.itmeindl.wawaappDemohausen"
         version   = "0.3.6"
-        versionCode="2">
+        versionCode="1">
 
-    <name>WachApp UFG</name>
+    <name>WachApp Demohausen</name>
 
     <description>
-        Eine Test-App für die Wachplan App der Wasserwacht Unterföhring von Tobias Meindl.
+        Eine Test-App für die Wachplan App der Wasserwacht Demohausen von Tobias Meindl.
         Nur für interne Mitglieder. Passwort benötigt. Anfragen bei info@wachplan.info.
     </description>
 
@@ -169,6 +169,8 @@
     -->
     <access origin="https://maxcdn.bootstrapcdn.com" subdomains="true" />
     <access origin="http://kenny-2.ddns.net" subdomains="true" />
+    <access origin="https://wachplan.info" subdomains="true" />
+    <access origin="http://app.demo.wachplan.info" subdomains="true" />
     <access origin="https://www.google-analytics.com" subdomains="true" />
     <!-- <access origin="https://pushpad.xyz/p/1859" subdomains="true" />-->
     
