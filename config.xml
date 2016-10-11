@@ -172,6 +172,8 @@
     <access origin="https://wachplan.info" subdomains="true" />
     <access origin="http://app.demo.wachplan.info" subdomains="true" />
     <access origin="https://www.google-analytics.com" subdomains="true" />
+    <access origin="http://Testuser:demopasswort@app.demo.wachplan.info" subdomains="true" />
+        
     <!-- <access origin="https://pushpad.xyz/p/1859" subdomains="true" />-->
     
     
